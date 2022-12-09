@@ -19,4 +19,5 @@ COVID-19 is already a global disease that cannot be separated from its effects o
 3. **Data Visualization**
     - Use the **scatter plot** to plot the population of different countries for the Country and Population:  
     As can be seen from the data, the number of countries is huge, so the population of each country is plotted one by one in the form of a scatter chart.  
-    <img src="./images/01.jpg" width="80%">
+    <img src="./images/01.jpg" width="80%">  
+    $\implies$ It can be found that the population of each country in this data is different, and the difference between the most populous and least populous countries is even $10^3$ times.
