@@ -62,5 +62,6 @@ It can be seen from the figure that among the cases in all continents, Europe ha
   
 4. Analyze the relationship between Population and Death percentage with **scatter plots**:  
 <img src="./images/10.png" width="80%">  
+  
 As shown in the figure, the cases with the highest death rate are mostly located in the areas with the largest and least populous populations, which is likely to be related to the degree of internationalization and the advanced level of medical equipment: countries with small populations have less developed science and technology, and medical equipment is not very advanced, resulting in extremely high mortality rates; Countries with larger populations have more developed science and technology and a higher degree of internationalization, so the frequency of population movement is higher. The more people they are exposed to, the higher the chance of infection, and the higher the mortality rate.  
 
