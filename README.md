@@ -48,3 +48,14 @@ COVID-19 is already a global disease that cannot be separated from its effects o
      - Death percentage v.s. Continent  
      <img src="./images/07.png" width="80%">  
        
+    $\implies$ From the above figures, it can be seen that among the top 5 data, different continents have different fields of different fields. Among Total Deaths, North America is the most serious case. Referring to the previous 6 continents per population (as shown in the figure below), it can be seen from the population of each state in this case that Asia has the largest population. Its total deaths are not the largest, but the highest death percentage.  
+    <img src="./images/08.png" width="80%">  
+      
+    $\implies$ Although Asia is large in terms of numbers, the infection and death rate in Asia is lower than most continents when measured proportionally due to the large number of Asian people.  
+      
+    $\implies$ Although Africa has a lower number of infections than other continents, it has the highest mortality rate, which may reflect the relative scarcity of medical resources in Africa compared to other continents. It is more difficult to cope with post-epidemic dangerous situations.  
+  
+
+3. Use the **bar chart** to analyze the relationship between Continent and Total Cases:  
+<img src="./images/08.png" width="80%">  
+$\implies$ It can be seen from the figure that among the cases in all continents, Europe has the largest number of cases, even surpassing Asia, the birthplace of Covid-19. This situation is because the degree of internationalization is more developed in Europe, and as the birthplace, Asia's epidemic prevention measures are more timely, which also leads to the largest number of cases in Europe in the figure above.
