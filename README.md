@@ -69,4 +69,12 @@ As shown in the figure, the cases with the highest death rate are mostly located
 <img src="./images/11.png" width="80%">  
 In the dataset, the death rate of COVID-19 is mostly concentrated within 0.1% ~ 2.5%, and only a few data exceed 5%.  
   
-## Conclusion  
+## Discussion and Conclusion  
+1. Discussion  
+    - Population size is related to deaths.
+    - Among continents, North America has the highest number of deaths, but the highest proportion of deaths is in Asia.
+    - The mortality rate of COVID-19 is currently between 0.1% ~ 2.5% and is still a dangerous infectious disease.  
+  
+2. Conclusion  
+     - Among the continents, although Asia has the largest population, Europe has the highest number of deaths, followed by South America.
+     - In the comparison of continents, Africa has the second largest population, but the number of infected people ranks behind; Europe has a smaller population, but the number of infections is at the top. There are certain differences in the economic development and operation of the two continents.
