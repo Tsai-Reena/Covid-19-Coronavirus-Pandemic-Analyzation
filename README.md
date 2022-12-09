@@ -32,3 +32,9 @@ COVID-19 is already a global disease that cannot be separated from its effects o
       
     - Total Deaths v.s. Continent
     <img src="./images/04.png" width="80%">  
+      
+    $\implies$ The chart of total cases and total deaths is similar in shape, indicating that the fatality rate of the virus does not vary by region. South America, on the other hand, has a much higher number of deaths than the number of infections, which may indicate that the number of infections recorded is not close to the facts.  
+    $\implies$ The "Total Cases v.s. Continent" chart shows that among all the cases in the continent, Europe has the largest number of cases, which even surpasses Asia, the birthplace of Covid-19. It may be due to the degree of internationalization in Europe, and as the birthplace, Asia's epidemic prevention measures are more timely, which also leads to the largest number of cases in Europe in the figure above.  
+    $\implies$ Africa has the second largest population, but the number of infections and deaths is the bottom. The possible reasons are as follows:
+    >> The government has put less effort into keeping track of the coronavirus figures.
+    >> The economic model is different from other continents. There is less interaction between traffic and interaction, and the virus is more difficult to spread.
