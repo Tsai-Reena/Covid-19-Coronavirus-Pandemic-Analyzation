@@ -58,4 +58,4 @@ COVID-19 is already a global disease that cannot be separated from its effects o
 
 3. Use the **bar chart** to analyze the relationship between Continent and Total Cases:  
 <img src="./images/08.png" width="80%">  
-$\implies$ It can be seen from the figure that among the cases in all continents, Europe has the largest number of cases, even surpassing Asia, the birthplace of Covid-19. This situation is because the degree of internationalization is more developed in Europe, and as the birthplace, Asia's epidemic prevention measures are more timely, which also leads to the largest number of cases in Europe in the figure above.
+    $\implies$ It can be seen from the figure that among the cases in all continents, Europe has the largest number of cases, even surpassing Asia, the birthplace of Covid-19. This situation is because the degree of internationalization is more developed in Europe, and as the birthplace, Asia's epidemic prevention measures are more timely, which also leads to the largest number of cases in Europe in the figure above.
