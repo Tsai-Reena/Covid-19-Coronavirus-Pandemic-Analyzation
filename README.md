@@ -16,8 +16,17 @@ COVID-19 is already a global disease that cannot be separated from its effects o
 2. **Summary of the Data**
     - DataFrame Information
     - DataFrame Statistical Information
-3. **Data Visualization**
-    - Use the **scatter plot** to plot the population of different countries for the Country and Population:  
+  
+  
+## Data Visualization
+1. Use the **scatter plot** to plot the population of different countries for the Country and Population:  
     As can be seen from the data, the number of countries is huge, so the population of each country is plotted one by one in the form of a scatter chart.  
-    <img src="./images/01.jpg" width="80%">  
+    <img src="./images/01.png" width="80%">  
     $\implies$ It can be found that the population of each country in this data is different, and the difference between the most populous and least populous countries is even $10^3$ times.
+2. Use the **bar chart** to plot the data value size of different continents and regions for different continents and each field:  
+    - Population v.s. Continent
+    <img src="./images/02.png" width="80%">  
+    - Total Cases v.s. Continent
+    <img src="./images/03.png" width="80%">  
+    - Total Deaths v.s. Continent
+    <img src="./images/04.png" width="80%">  
