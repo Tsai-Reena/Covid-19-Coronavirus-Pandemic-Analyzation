@@ -23,7 +23,7 @@ COVID-19 is already a global disease that cannot be separated from its effects o
     As can be seen from the data, the number of countries is huge, so the population of each country is plotted one by one in the form of a scatter chart.  
     <img src="./images/01.png" width="80%">  
     $\implies$ It can be found that the population of each country in this data is different, and the difference between the most populous and least populous countries is even $10^3$ times.
-2. Use the **bar chart** to plot the data value size of different continents and regions for different continents and each field:  
+2. Plot the data value size of different continents and regions for different continents and each field with **bar chart**:  
     - Population v.s. Continent
     <img src="./images/02.png" width="80%">  
       
@@ -56,6 +56,11 @@ COVID-19 is already a global disease that cannot be separated from its effects o
     $\implies$ Although Africa has a lower number of infections than other continents, it has the highest mortality rate, which may reflect the relative scarcity of medical resources in Africa compared to other continents. It is more difficult to cope with post-epidemic dangerous situations.  
   
 
-3. Use the **bar chart** to analyze the relationship between Continent and Total Cases:  
-<img src="./images/08.png" width="80%">  
-    $\implies$ It can be seen from the figure that among the cases in all continents, Europe has the largest number of cases, even surpassing Asia, the birthplace of Covid-19. This situation is because the degree of internationalization is more developed in Europe, and as the birthplace, Asia's epidemic prevention measures are more timely, which also leads to the largest number of cases in Europe in the figure above.
+3. Analyze the relationship between Continent and Total Cases with **bar chart**:  
+<img src="./images/09.png" width="80%">  
+It can be seen from the figure that among the cases in all continents, Europe has the largest number of cases, even surpassing Asia, the birthplace of Covid-19. This situation is because the degree of internationalization is more developed in Europe, and as the birthplace, Asia's epidemic prevention measures are more timely, which also leads to the largest number of cases in Europe in the figure above.  
+  
+4. Analyze the relationship between Population and Death percentage with **scatter plots**:  
+<img src="./images/10.png" width="80%">  
+As shown in the figure, the cases with the highest death rate are mostly located in the areas with the largest and least populous populations, which is likely to be related to the degree of internationalization and the advanced level of medical equipment: countries with small populations have less developed science and technology, and medical equipment is not very advanced, resulting in extremely high mortality rates; Countries with larger populations have more developed science and technology and a higher degree of internationalization, so the frequency of population movement is higher. The more people they are exposed to, the higher the chance of infection, and the higher the mortality rate.  
+
