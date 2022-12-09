@@ -26,7 +26,9 @@ COVID-19 is already a global disease that cannot be separated from its effects o
 2. Use the **bar chart** to plot the data value size of different continents and regions for different continents and each field:  
     - Population v.s. Continent
     <img src="./images/02.png" width="80%">  
+      
     - Total Cases v.s. Continent
     <img src="./images/03.png" width="80%">  
+      
     - Total Deaths v.s. Continent
     <img src="./images/04.png" width="80%">  
